@@ -8,7 +8,7 @@ I just needed a way to play sounds on specific hardware devices.
 
 ```
 QuickConsoleAudioPlayer
-``
+```
 
 This will print out an enumerated list of all sound devices found and available to DirectSound. You will want to take note of the UUID for the device you are interested in.
 
